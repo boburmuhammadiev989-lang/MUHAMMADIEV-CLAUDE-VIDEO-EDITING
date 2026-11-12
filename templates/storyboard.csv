@@ -1,0 +1,5 @@
+scene,start_time,end_time,story_purpose,shot_size,camera_movement,visual_action,dialogue_or_vo,on_screen_text,sound,music,transition,asset_required,continuity_notes
+01,00:00,00:05,Hook,,,,,,,,,,,
+02,00:05,00:12,Context,,,,,,,,,,,
+03,00:12,00:20,Tension or proof,,,,,,,,,,,
+04,00:20,00:30,Payoff,,,,,,,,,,,
