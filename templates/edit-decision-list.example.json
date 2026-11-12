@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "project": "replace-with-project-name",
+  "notes": "Paths in assets are relative to this JSON file. Replace the sample path before validation.",
+  "assets": {
+    "camera_a": "media/replace-with-source.mp4"
+  },
+  "segments": [
+    {
+      "source": "camera_a",
+      "start": 0.0,
+      "end": 4.5,
+      "timeline_start": 0.0,
+      "label": "opening-hook"
+    },
+    {
+      "source": "camera_a",
+      "start": 8.0,
+      "end": 13.0,
+      "timeline_start": 4.5,
+      "label": "demonstration"
+    }
+  ],
+  "output": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "video_codec": "libx264",
+    "audio_codec": "aac",
+    "container": "mp4"
+  }
+}
